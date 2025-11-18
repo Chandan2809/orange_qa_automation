@@ -99,7 +99,7 @@ public class OrangeHRM_Admin_StepDef extends Base {
 	public void click_on_search_button() throws InterruptedException {
 		driver.findElement(By.xpath(prop.getProperty("ClickUserSearchButton"))).click();
 	    logger.info("Click on the search button");
-	    Thread.sleep(5000); // Test Push
+	    Thread.sleep(5000); // Test Push....
 	}
 
 
