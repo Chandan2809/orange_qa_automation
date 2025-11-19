@@ -18,7 +18,7 @@ import static io.cucumber.junit.platform.engine.Constants.*;
 @ConfigurationParameter(key = Constants.GLUE_PROPERTY_NAME, value = "StepDefinitions")
 @IncludeTags("OrangeHrmsAdmin")
 //@IncludeTags("OrangeLogin|OrangeHrmsAdmin|LiskartSellerRegistration|LiskartSellerLogin")
-@ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "pretty, json:target/cucumber-reports/cucumber.json,html:target/HTMLReport,com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:target/cucumber-reports/report.html")
+@ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "pretty, json:target/cucumber-reports/cucumber.json,html:target/HTMLReport,com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:target/cucumber-reports/report.html,io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm")
 
 @Disabled
 

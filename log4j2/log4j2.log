@@ -1185,3 +1185,30 @@
 [INFO ] 2025-11-18 16:11:16 [main] (OrangeHRM_Admin_StepDef.java:92) - Click on user ststus
 [INFO ] 2025-11-18 16:11:17 [main] (OrangeHRM_Admin_StepDef.java:94) - Select user ststus
 [INFO ] 2025-11-18 16:11:19 [main] (OrangeHRM_Admin_StepDef.java:101) - Click on the search button
+[INFO ] 2025-11-19 12:25:40 [main] (OrangeHRM_Admin_StepDef.java:23) - Clicked to the  Admin Button
+[INFO ] 2025-11-19 12:25:42 [main] (OrangeHRM_Admin_StepDef.java:31) - Clicked to the  Add Button
+[INFO ] 2025-11-19 12:25:43 [main] (OrangeHRM_Admin_StepDef.java:38) - Clicked to the  user role Dropdown Button
+[INFO ] 2025-11-19 12:25:44 [main] (OrangeHRM_Admin_StepDef.java:41) - Select User Role
+[INFO ] 2025-11-19 12:25:45 [main] (OrangeHRM_Admin_StepDef.java:44) - Clicked to the  user Status Dropdown Button
+[INFO ] 2025-11-19 12:25:46 [main] (OrangeHRM_Admin_StepDef.java:47) - Select User Enabled
+[INFO ] 2025-11-19 12:25:47 [main] (OrangeHRM_Admin_StepDef.java:50) - Enter Employee hint Name
+[INFO ] 2025-11-19 12:27:25 [main] (OrangeHRM_Admin_StepDef.java:23) - Clicked to the  Admin Button
+[INFO ] 2025-11-19 12:27:27 [main] (OrangeHRM_Admin_StepDef.java:31) - Clicked to the  Add Button
+[INFO ] 2025-11-19 12:27:28 [main] (OrangeHRM_Admin_StepDef.java:38) - Clicked to the  user role Dropdown Button
+[INFO ] 2025-11-19 12:27:29 [main] (OrangeHRM_Admin_StepDef.java:41) - Select User Role
+[INFO ] 2025-11-19 12:27:30 [main] (OrangeHRM_Admin_StepDef.java:44) - Clicked to the  user Status Dropdown Button
+[INFO ] 2025-11-19 12:27:31 [main] (OrangeHRM_Admin_StepDef.java:47) - Select User Enabled
+[INFO ] 2025-11-19 12:27:32 [main] (OrangeHRM_Admin_StepDef.java:50) - Enter Employee hint Name
+[INFO ] 2025-11-19 12:27:36 [main] (OrangeHRM_Admin_StepDef.java:53) - Select Employee Name
+[INFO ] 2025-11-19 12:27:37 [main] (OrangeHRM_Admin_StepDef.java:56) - Enter Employee Name
+[INFO ] 2025-11-19 12:27:39 [main] (OrangeHRM_Admin_StepDef.java:59) - Enter User Password
+[INFO ] 2025-11-19 12:27:42 [main] (OrangeHRM_Admin_StepDef.java:62) - Enter User Confirm Password
+[INFO ] 2025-11-19 12:27:43 [main] (OrangeHRM_Admin_StepDef.java:70) - Click on user add save button
+[INFO ] 2025-11-19 12:27:53 [main] (OrangeHRM_Admin_StepDef.java:80) - Enter user Name for search
+[INFO ] 2025-11-19 12:27:58 [main] (OrangeHRM_Admin_StepDef.java:84) - Click on user role dropdown
+[INFO ] 2025-11-19 12:28:00 [main] (OrangeHRM_Admin_StepDef.java:86) - Select user role
+[INFO ] 2025-11-19 12:28:03 [main] (OrangeHRM_Admin_StepDef.java:88) - Type employee hint
+[INFO ] 2025-11-19 12:28:06 [main] (OrangeHRM_Admin_StepDef.java:90) - Select employee Name
+[INFO ] 2025-11-19 12:28:07 [main] (OrangeHRM_Admin_StepDef.java:92) - Click on user ststus
+[INFO ] 2025-11-19 12:28:08 [main] (OrangeHRM_Admin_StepDef.java:94) - Select user ststus
+[INFO ] 2025-11-19 12:28:09 [main] (OrangeHRM_Admin_StepDef.java:101) - Click on the search button
