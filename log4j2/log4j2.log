@@ -1212,3 +1212,23 @@
 [INFO ] 2025-11-19 12:28:07 [main] (OrangeHRM_Admin_StepDef.java:92) - Click on user ststus
 [INFO ] 2025-11-19 12:28:08 [main] (OrangeHRM_Admin_StepDef.java:94) - Select user ststus
 [INFO ] 2025-11-19 12:28:09 [main] (OrangeHRM_Admin_StepDef.java:101) - Click on the search button
+[INFO ] 2025-11-19 14:26:15 [main] (OrangeHRM_Admin_StepDef.java:23) - Clicked to the  Admin Button
+[INFO ] 2025-11-19 14:26:17 [main] (OrangeHRM_Admin_StepDef.java:31) - Clicked to the  Add Button
+[INFO ] 2025-11-19 14:26:18 [main] (OrangeHRM_Admin_StepDef.java:38) - Clicked to the  user role Dropdown Button
+[INFO ] 2025-11-19 14:26:19 [main] (OrangeHRM_Admin_StepDef.java:41) - Select User Role
+[INFO ] 2025-11-19 14:26:20 [main] (OrangeHRM_Admin_StepDef.java:44) - Clicked to the  user Status Dropdown Button
+[INFO ] 2025-11-19 14:26:21 [main] (OrangeHRM_Admin_StepDef.java:47) - Select User Enabled
+[INFO ] 2025-11-19 14:26:23 [main] (OrangeHRM_Admin_StepDef.java:50) - Enter Employee hint Name
+[INFO ] 2025-11-19 14:26:26 [main] (OrangeHRM_Admin_StepDef.java:53) - Select Employee Name
+[INFO ] 2025-11-19 14:26:27 [main] (OrangeHRM_Admin_StepDef.java:56) - Enter Employee Name
+[INFO ] 2025-11-19 14:26:29 [main] (OrangeHRM_Admin_StepDef.java:59) - Enter User Password
+[INFO ] 2025-11-19 14:26:32 [main] (OrangeHRM_Admin_StepDef.java:62) - Enter User Confirm Password
+[INFO ] 2025-11-19 14:26:33 [main] (OrangeHRM_Admin_StepDef.java:70) - Click on user add save button
+[INFO ] 2025-11-19 14:26:43 [main] (OrangeHRM_Admin_StepDef.java:80) - Enter user Name for search
+[INFO ] 2025-11-19 14:26:48 [main] (OrangeHRM_Admin_StepDef.java:84) - Click on user role dropdown
+[INFO ] 2025-11-19 14:26:51 [main] (OrangeHRM_Admin_StepDef.java:86) - Select user role
+[INFO ] 2025-11-19 14:26:53 [main] (OrangeHRM_Admin_StepDef.java:88) - Type employee hint
+[INFO ] 2025-11-19 14:26:56 [main] (OrangeHRM_Admin_StepDef.java:90) - Select employee Name
+[INFO ] 2025-11-19 14:26:57 [main] (OrangeHRM_Admin_StepDef.java:92) - Click on user ststus
+[INFO ] 2025-11-19 14:26:58 [main] (OrangeHRM_Admin_StepDef.java:94) - Select user ststus
+[INFO ] 2025-11-19 14:26:59 [main] (OrangeHRM_Admin_StepDef.java:101) - Click on the search button
